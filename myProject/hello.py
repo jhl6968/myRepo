@@ -1,4 +1,4 @@
 msg = "Hello World!"
 print(msg)
 
-msg.count
+print(msg.count)
